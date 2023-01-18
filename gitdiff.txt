@@ -1,1 +1,5 @@
 This is to test whether my intuition about the output of git diff is correct.
+I have added two lines.
+I have now added four.
+This is the fifth one.
+Phew, this is the last one. Even the seventh one.
